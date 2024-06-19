@@ -358,12 +358,5 @@ if os.path.isfile('purpur.yml'):
 else:
     error_log('purpur.yml not found!')
 
-if os.path.isfile('wepif.yml'):
-    print('Settings are being optimized... (wepif.yml)')
-    change_yaml_value('wepif.yml', 'permissions.groups', [])
-    change_yaml_value('wepif.yml', 'permissions.users', [])
-else:
-    error_log('wepif.yml not found!')
-
 print('Successfully finished. You can find the changes made in the "optimizer.log" and "optimizer_changes.log" files.')
 input('Press Enter to exit.')
