@@ -1,4 +1,4 @@
-# MCOptimizer
+# Minecraft Server Optimizer
 Automatically applies known recommended settings for minecraft to your server.
 
 !WARNING!
