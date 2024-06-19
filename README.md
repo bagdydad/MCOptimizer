@@ -11,5 +11,5 @@ You should know that WE ARE NOT RESPONSIBLE FOR ANY PROBLEMS!
 
 How To Use:
 1. Install Python: https://www.python.org/
-2. Install Python Library (Execute on cmd): pip install PyYAML
+2. Install Python YML Library (Execute on cmd): pip install PyYAML
 3. Run optimizer file with double click or cmd: py MCSO.py
